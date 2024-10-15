@@ -27,4 +27,4 @@ Seja para ver meus projetos ou acompanhar meu progresso, fique à vontade para e
 
 > *"As dificuldades são apenas novos desafios esperando para serem superados."* – Personagem de algum anime
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ddblackt&show_icons=true&theme=tokyonight)
