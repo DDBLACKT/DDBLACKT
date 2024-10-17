@@ -4,8 +4,12 @@
 
 ---
 
-### 🔗 **Msite de hospedagem**
-[![Visite o site de hospedagem](https://img.shields.io/badge/Visite%20meu%20site-nexfuture-brightgreen)](https://loja.nexfuture.com.br)
+Estou apenas no início da minha jornada na programação, mas o objetivo é claro: **evoluir e criar algo incrível**! 🚀
+
+---
+
+### 🔗 **NexFuture Hospedagem**
+[![NexFuture Hospedagem](https://img.shields.io/badge/NexFuture%20Hospedagem-00A1FF?style=for-the-badge&logo=googlecloud&logoColor=white)](https://loja.nexfuture.com.br) | [![Canal NexFuture](https://img.shields.io/badge/WhatsApp-Join%20the%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaNzahF2phHPXLRTW12c)
 
 ---
 
@@ -23,5 +27,9 @@
 
 ---
 
+### 📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddblackt&show_icons=true&theme=tokyonight)
+
+---
+
 > *"Todo grande sonho começa com um pequeno passo."* ✨
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ddblackt&show_icons=true&theme=tokyonight)
