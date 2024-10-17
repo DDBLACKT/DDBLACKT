@@ -23,10 +23,5 @@
 
 ---
 
-### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddblackt&show_icons=true&theme=tokyonight)
-
----
-
 > *"Todo grande sonho começa com um pequeno passo."* ✨
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ddblackt&show_icons=true&theme=tokyonight)
